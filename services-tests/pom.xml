@@ -50,7 +50,7 @@
     <allure-jbehave-reporter.version>0.1</allure-jbehave-reporter.version>
     <mongo.version>3.4.0</mongo.version>
     <jedis.version>2.9.0</jedis.version>
-    <jackson-dataformat-xml.version>2.3.3</jackson-dataformat-xml.version>
+    <jackson-dataformat-xml.version>2.7.8</jackson-dataformat-xml.version>
     <stax2-api.version>3.1.4</stax2-api.version>
     <woodstox-core-asl.version>4.4.1</woodstox-core-asl.version>
     <commons-io.version>2.5</commons-io.version>
