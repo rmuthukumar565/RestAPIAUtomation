@@ -55,7 +55,7 @@
     <woodstox-core-asl.version>4.4.1</woodstox-core-asl.version>
     <commons-io.version>2.5</commons-io.version>
     <bcprov.version>1.46</bcprov.version>
-    <mysql.version>5.1.6</mysql.version>
+    <mysql.version>8.0.16</mysql.version>
     <meta.filter></meta.filter>
     <skipTests>false</skipTests>
     <story.timeout.in.secs>5000</story.timeout.in.secs>
