@@ -10,7 +10,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <jbehave.version>3.8</jbehave.version>
     <surefire.version>2.19.1</surefire.version>
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <jetty.version>9.2.10.v20150310</jetty.version>
     <maven-compiler.version>2.3.2</maven-compiler.version>
     <maven-jar.version>2.4</maven-jar.version>
