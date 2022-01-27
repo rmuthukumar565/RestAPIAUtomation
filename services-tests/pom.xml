@@ -25,7 +25,7 @@
     <log4j.version>1.2.17</log4j.version>
     <log4j.extras.version>1.1</log4j.extras.version>
     <jaxen.version>1.1.1</jaxen.version>
-    <xerces.version>2.9.1</xerces.version>
+    <xerces.version>2.12.2</xerces.version>
     <gson.version>2.2.4</gson.version>
     <guava.version>18.0</guava.version>
     <slf4j.version>1.7.21</slf4j.version>
