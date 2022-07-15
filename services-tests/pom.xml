@@ -41,7 +41,7 @@
     <commons-collections.version>3.0</commons-collections.version>
     <jersey.version>1.19.1</jersey.version>
     <jackson.version>1.9.13</jackson.version>
-    <jackson-core.version>2.4.2</jackson-core.version>
+    <jackson-core.version>2.12.6.1</jackson-core.version>
     <aspectj.version>1.8.9</aspectj.version>
     <aspectjrt.version>1.7.2</aspectjrt.version>
     <assertj.version>2.0.0</assertj.version>
